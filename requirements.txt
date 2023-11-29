@@ -9,7 +9,7 @@ sentence-transformers==2.2.2
 Flask-Cors==4.0.0
 Flask-Login==0.6.3
 pyOpenSSL==23.2.0
-cryptography==41.0.5
+cryptography==41.0.6
 pyodbc==4.0.39
 azure-identity==1.15.0
 azure-keyvault-secrets==4.7.0

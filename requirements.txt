@@ -13,3 +13,5 @@ cryptography==41.0.5
 pyodbc==4.0.39
 azure-identity==1.15.0
 azure-keyvault-secrets==4.7.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
